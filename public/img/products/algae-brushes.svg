@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" fill="none" stroke="#2a2c2e" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<ellipse cx="300" cy="532" rx="190" ry="16" fill="#dedcd6" stroke="none" opacity=".7"/>
+<path d="M110 420Q300 380 490 420L480 452Q300 414 120 452Z" fill="#dedcd6"/>
+<path d="M126 454.0L126 492 M144 453.4L144 492 M162 452.8L162 492 M180 452.2L180 492 M198 451.6L198 492 M216 451.0L216 492 M234 450.4L234 492 M252 449.8L252 492 M270 449.2L270 492 M288 448.6L288 492 M306 448.0L306 492 M324 448.6L324 492 M342 449.2L342 492 M360 449.8L360 492 M378 450.4L378 492 M396 451.0L396 492 M414 451.6L414 492 M432 452.2L432 492 M450 452.8L450 492 M468 453.4L468 492 M486 454.0L486 492" fill="none" stroke="#b8bcc1" stroke-width="3"/>
+<rect x="268" y="330" width="64" height="70" rx="10" fill="#f6f5f2"/>
+<path d="M300 330L230 120" fill="none" stroke-width="12" stroke="#b8bcc1"/>
+</svg>

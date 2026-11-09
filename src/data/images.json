@@ -1,0 +1,282 @@
+{
+ "/brand/cresta-emblem.webp": {
+  "w": 247,
+  "h": 240
+ },
+ "/brand/cresta-logo-stacked.webp": {
+  "w": 320,
+  "h": 302
+ },
+ "/brand/cresta-wordmark.webp": {
+  "w": 434,
+  "h": 90
+ },
+ "/img/frp/advantage-01.webp": {
+  "w": 1800,
+  "h": 1200,
+  "sm": 960
+ },
+ "/img/frp/advantage-02.webp": {
+  "w": 1600,
+  "h": 1067,
+  "sm": 960
+ },
+ "/img/frp/advantage-03.webp": {
+  "w": 1600,
+  "h": 1067,
+  "sm": 960
+ },
+ "/img/frp/advantage-04.webp": {
+  "w": 1600,
+  "h": 1067,
+  "sm": 960
+ },
+ "/img/frp/advantage-05.webp": {
+  "w": 1800,
+  "h": 1200,
+  "sm": 960
+ },
+ "/img/frp/hero.webp": {
+  "w": 2400,
+  "h": 1800,
+  "sm": 960
+ },
+ "/img/frp/readymade.webp": {
+  "w": 2000,
+  "h": 1125,
+  "sm": 960
+ },
+ "/img/products/algae-brushes.svg": {
+  "w": 600,
+  "h": 600
+ },
+ "/img/products/aluminium-vacuum-head.svg": {
+  "w": 600,
+  "h": 600
+ },
+ "/img/products/b-series.svg": {
+  "w": 600,
+  "h": 600
+ },
+ "/img/products/bp-series.svg": {
+  "w": 600,
+  "h": 600
+ },
+ "/img/products/dosingstar.svg": {
+  "w": 600,
+  "h": 600
+ },
+ "/img/products/f-series.svg": {
+  "w": 600,
+  "h": 600
+ },
+ "/img/products/hero.webp": {
+  "w": 2400,
+  "h": 1600,
+  "sm": 960
+ },
+ "/img/products/hydrosmart.svg": {
+  "w": 600,
+  "h": 600
+ },
+ "/img/products/m-series.svg": {
+  "w": 600,
+  "h": 600
+ },
+ "/img/products/mrb-series.svg": {
+  "w": 600,
+  "h": 600
+ },
+ "/img/products/ms-series.svg": {
+  "w": 600,
+  "h": 600
+ },
+ "/img/products/mtx-series.svg": {
+  "w": 600,
+  "h": 600
+ },
+ "/img/products/mxb-series.svg": {
+  "w": 600,
+  "h": 600
+ },
+ "/img/products/plastic-fittings.svg": {
+  "w": 600,
+  "h": 600
+ },
+ "/img/products/pool-accessories.svg": {
+  "w": 600,
+  "h": 600
+ },
+ "/img/products/pool-hose.svg": {
+  "w": 600,
+  "h": 600
+ },
+ "/img/products/pool-vacuum.svg": {
+  "w": 600,
+  "h": 600
+ },
+ "/img/products/salt-chlorinator.svg": {
+  "w": 600,
+  "h": 600
+ },
+ "/img/products/side-brush-head.svg": {
+  "w": 600,
+  "h": 600
+ },
+ "/img/products/ss-ladders.svg": {
+  "w": 600,
+  "h": 600
+ },
+ "/img/products/ss-vacuum-head.svg": {
+  "w": 600,
+  "h": 600
+ },
+ "/img/products/tablet-feeder.svg": {
+  "w": 600,
+  "h": 600
+ },
+ "/img/products/telescopic-poles.svg": {
+  "w": 600,
+  "h": 600
+ },
+ "/img/site/about-hero.webp": {
+  "w": 2400,
+  "h": 1600,
+  "sm": 960
+ },
+ "/img/site/aerial-resort.webp": {
+  "w": 1400,
+  "h": 1867,
+  "sm": 960
+ },
+ "/img/site/commercial.webp": {
+  "w": 2000,
+  "h": 1125,
+  "sm": 960
+ },
+ "/img/site/construction.webp": {
+  "w": 1800,
+  "h": 1012,
+  "sm": 960
+ },
+ "/img/site/hero-day.webp": {
+  "w": 2400,
+  "h": 1600,
+  "sm": 960
+ },
+ "/img/site/hero-home.webp": {
+  "w": 2400,
+  "h": 1600,
+  "sm": 960
+ },
+ "/img/site/hero-night.webp": {
+  "w": 2400,
+  "h": 1600,
+  "sm": 960
+ },
+ "/img/site/indoor-lanes.webp": {
+  "w": 2000,
+  "h": 1500,
+  "sm": 960
+ },
+ "/img/site/indoor.webp": {
+  "w": 2000,
+  "h": 1262,
+  "sm": 960
+ },
+ "/img/site/plant-room.webp": {
+  "w": 1800,
+  "h": 1125,
+  "sm": 960
+ },
+ "/img/site/pool-sunset.webp": {
+  "w": 2400,
+  "h": 1600,
+  "sm": 960
+ },
+ "/img/site/pool-tiles.webp": {
+  "w": 1600,
+  "h": 1067,
+  "sm": 960
+ },
+ "/img/site/private.webp": {
+  "w": 1800,
+  "h": 1200,
+  "sm": 960
+ },
+ "/img/site/renovation.webp": {
+  "w": 1600,
+  "h": 1067,
+  "sm": 960
+ },
+ "/img/site/turnkey.webp": {
+  "w": 1800,
+  "h": 1200,
+  "sm": 960
+ },
+ "/img/site/vineyard.webp": {
+  "w": 2000,
+  "h": 1333,
+  "sm": 960
+ },
+ "/img/site/water-features.webp": {
+  "w": 1400,
+  "h": 2099,
+  "sm": 960
+ },
+ "/img/site/water.webp": {
+  "w": 2400,
+  "h": 1347,
+  "sm": 960
+ },
+ "/img/wellness/adhesive-1.webp": {
+  "w": 1200,
+  "h": 1200,
+  "sm": 960
+ },
+ "/img/wellness/adhesive-2.webp": {
+  "w": 1200,
+  "h": 1200,
+  "sm": 960
+ },
+ "/img/wellness/adhesive-3.webp": {
+  "w": 1200,
+  "h": 1200,
+  "sm": 960
+ },
+ "/img/wellness/adhesive-4.webp": {
+  "w": 1200,
+  "h": 1200,
+  "sm": 960
+ },
+ "/img/wellness/hero.webp": {
+  "w": 2400,
+  "h": 1600,
+  "sm": 960
+ },
+ "/img/wellness/jacuzzi-1.webp": {
+  "w": 1800,
+  "h": 1200,
+  "sm": 960
+ },
+ "/img/wellness/jacuzzi-2.webp": {
+  "w": 1400,
+  "h": 1400,
+  "sm": 960
+ },
+ "/img/wellness/lounge.webp": {
+  "w": 1800,
+  "h": 1200,
+  "sm": 960
+ },
+ "/img/wellness/sauna.webp": {
+  "w": 1400,
+  "h": 1400,
+  "sm": 960
+ },
+ "/img/wellness/steam.webp": {
+  "w": 1400,
+  "h": 1400,
+  "sm": 960
+ }
+}

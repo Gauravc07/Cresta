@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" fill="none" stroke="#2a2c2e" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<ellipse cx="300" cy="532" rx="190" ry="16" fill="#dedcd6" stroke="none" opacity=".7"/>
+<rect x="210" y="170" width="180" height="320" rx="30" fill="#f6f5f2"/>
+<rect x="196" y="140" width="208" height="46" rx="14" fill="#2a2c2e"/>
+<rect x="210" y="300" width="180" height="130" rx="0" fill="#5e8cff" fill-opacity=".15" stroke="none"/>
+<ellipse cx="255" cy="330" rx="22" ry="10" fill="#f6f5f2"/>
+<ellipse cx="300" cy="345" rx="22" ry="10" fill="#f6f5f2"/>
+<ellipse cx="345" cy="325" rx="22" ry="10" fill="#f6f5f2"/>
+<ellipse cx="275" cy="372" rx="22" ry="10" fill="#f6f5f2"/>
+<ellipse cx="325" cy="380" rx="22" ry="10" fill="#f6f5f2"/>
+<rect x="130" y="440" width="80" height="36" rx="6" fill="#dedcd6"/>
+<rect x="390" y="440" width="80" height="36" rx="6" fill="#dedcd6"/>
+<ellipse cx="300" cy="250" rx="28" ry="28" fill="#dedcd6"/>
+<path d="M300 230v20l12 10" fill="none"/>
+</svg>

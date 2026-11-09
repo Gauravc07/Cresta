@@ -1,0 +1,29 @@
+{
+  "name": "cresta-web",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build && vite build --ssr src/entry-server.jsx --outDir dist-ssr",
+    "db:migrate": "node --env-file=.env scripts/migrate.mjs",
+    "db:backup": "node --env-file=.env scripts/db-backup.mjs",
+    "db:restore": "node --env-file=.env scripts/db-backup.mjs restore",
+    "admin:create": "node --env-file=.env scripts/create-admin.mjs",
+    "start": "node server.mjs",
+    "serve": "npm run build && node server.mjs"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-router-dom": "^7.6.0",
+    "pg": "^8.16.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.4.1",
+    "vite": "^6.3.5"
+  },
+  "engines": {
+    "node": ">=20.6"
+  }
+}

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" fill="none" stroke="#2a2c2e" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<ellipse cx="300" cy="532" rx="190" ry="16" fill="#dedcd6" stroke="none" opacity=".7"/>
+<rect x="90" y="390" width="420" height="70" rx="10" fill="#b8bcc1"/>
+<rect x="90" y="380" width="420" height="20" rx="4" fill="#f6f5f2"/>
+<path d="M110 460L110 490 M135 460L135 490 M160 460L160 490 M185 460L185 490 M210 460L210 490 M235 460L235 490 M260 460L260 490 M285 460L285 490 M310 460L310 490 M335 460L335 490 M360 460L360 490 M385 460L385 490 M410 460L410 490 M435 460L435 490 M460 460L460 490 M485 460L485 490 M510 460L510 490" fill="none" stroke="#2a2c2e" stroke-width="2.5"/>
+<ellipse cx="130" cy="470" rx="20" ry="20" fill="#dedcd6"/>
+<ellipse cx="470" cy="470" rx="20" ry="20" fill="#dedcd6"/>
+<rect x="272" y="300" width="56" height="90" rx="8" fill="#dedcd6"/>
+<path d="M300 300L360 110" fill="none" stroke-width="12" stroke="#b8bcc1"/>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" fill="none" stroke="#2a2c2e" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<ellipse cx="300" cy="532" rx="190" ry="16" fill="#dedcd6" stroke="none" opacity=".7"/>
+<rect x="120" y="390" width="360" height="70" rx="16" fill="#dedcd6"/>
+<path d="M138 460L138 494 M158 460L158 494 M178 460L178 494 M198 460L198 494 M218 460L218 494 M238 460L238 494 M258 460L258 494 M278 460L278 494 M298 460L298 494 M318 460L318 494 M338 460L338 494 M358 460L358 494 M378 460L378 494 M398 460L398 494 M418 460L418 494 M438 460L438 494 M458 460L458 494" fill="none" stroke="#5e8cff" stroke-width="3"/>
+<path d="M120 400L96 400 M120 412L96 412 M120 424L96 424 M120 436L96 436 M120 448L96 448 M480 400L504 400 M480 412L504 412 M480 424L504 424 M480 436L504 436 M480 448L504 448" fill="none" stroke="#5e8cff" stroke-width="3"/>
+<rect x="272" y="304" width="56" height="90" rx="8" fill="#f6f5f2"/>
+<path d="M300 304L380 116" fill="none" stroke-width="12" stroke="#b8bcc1"/>
+</svg>

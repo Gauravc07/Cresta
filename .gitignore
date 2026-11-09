@@ -1,0 +1,8 @@
+node_modules
+dist
+dist-ssr
+backups
+.env
+.env.*
+!.env.example
+logs
